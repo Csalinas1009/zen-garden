@@ -1,0 +1,84 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: skyblue;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+nav {
+    background-color: rgb(216, 117, 117);
+}
+
+aside {
+    background-color: rgb(141, 56, 150);
+}
+
+nav,
+aside {
+    color: cadetblue;
+}
+
+a {
+    text-decoration: none;
+    background-color: aquamarine;
+}
+
+a:visited {
+    color: darkgreen;
+}
+
+a:hover {
+    color: darkred;
+}
+
+main>section {
+    border: chocolate;
+    border: 55px;
+}
+
+h3 {
+    box-shadow: 55px;
+}
+
+h1 {
+    font-size: .75em;
+    text-shadow: 55px;
+}
+
+p {
+    font-size: 15px;
+    text-align: justify;
+}
+
+span {
+    font-weight: bolder;
+}
+
+main {
+    background-color: darksalmon;
+    width: 90%;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+.Introduction {
+    color: aqua;
+}
+
+.Cool {
+    color: blue;
+}
+
+.Summary {
+    color: cadetblue;
+}
